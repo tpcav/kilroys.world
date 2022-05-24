@@ -1,8 +1,6 @@
 # Kilroy's World
 
-This is an expiremental website project for the artist Kilroy. Currently, the site is set up to display AI artwork. Using [Anime.js](https://animejs.com/) for text animatons on scroll as you view each piece of art. 
-
-[Website](http://kilroys.world/)
+This is an expiremental [website](http://kilroys.world/) project for the artist Kilroy. Currently, the site is set up to display AI artwork. Using [Anime.js](https://animejs.com/) for text animatons on scroll as you view each piece of art. 
 
 ## Credits
 
