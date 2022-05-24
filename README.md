@@ -1,10 +1,6 @@
 # Kilroy's World
 
-Currently:
-Arist portfolio site
-AI art gallery for artist Kilroy using Anime.js animations
-
-On display: AI art
+This is an expiremental website project for the artist Kilroy. Currently, the site is set up to display AI artwork. Using [Anime.js](https://animejs.com/) for text animatons on scroll as you view each piece of art. 
 
 [Website](http://kilroys.world/)
 
