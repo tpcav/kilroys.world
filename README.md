@@ -1,4 +1,8 @@
-# Kilroy's Gallery 
+# Kilroy's World
+
+Currently:
+Arist portfolio site
+AI art gallery for artist Kilroy using Anime.js animations
 
 On display: AI art
 
